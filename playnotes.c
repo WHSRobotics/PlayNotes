@@ -31,6 +31,7 @@ task main()
 	int B = 494;
 	int C2 = 523;
 
+	//twinkle twinkle
 	n(C);
 	n(C);
 	n(G);
@@ -45,6 +46,7 @@ task main()
 	n(D);
 	n(D);
 	n(C);
+	//counting stars
 	n(G);
 	n(A);
 	n(C2);
